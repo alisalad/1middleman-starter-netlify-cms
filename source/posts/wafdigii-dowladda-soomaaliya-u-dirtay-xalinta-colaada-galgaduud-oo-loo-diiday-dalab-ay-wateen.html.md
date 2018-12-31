@@ -3,7 +3,9 @@ title: >-
   Wafdigii dowladda Soomaaliya u dirtay xalinta colaada Galgaduud oo loo diiday
   dalab ay wateen
 date: 2018-12-31T06:45:49.639Z
-description: Where is this
+description: >-
+  Wafdigii dowladda Soomaaliya u dirtay xalinta colaada Galgaduud oo loo diiday
+  dalab ay wateen
 image: /images/uploads/xil.-cali-cabdi-cusmaan.jpg
 ---
 Wafdi uu hoggaaminayo Wasiirka Arrimaha Gudaha Xukuumadda Soomaaliya Cabdi Maxamed Sabriye oo ku baxay xalinta colaada beeleedyada ka socday deegaano ka tirsan Gobolka Galgaduud ayaa ku guuldareystay dalabaad ay wateen.
