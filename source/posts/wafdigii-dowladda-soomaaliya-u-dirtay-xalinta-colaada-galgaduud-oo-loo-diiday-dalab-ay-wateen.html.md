@@ -1,7 +1,5 @@
 ---
-title: >-
-  Wafdigii dowladda Soomaaliya u dirtay xalinta colaada Galgaduud oo loo diiday
-  dalab ay wateen
+title: 'Wafdigii dowladda Soomaaliya u dirtay xalinta colaada Galgaduud '
 date: 2018-12-31T06:45:49.639Z
 description: >-
   Wafdigii dowladda Soomaaliya u dirtay xalinta colaada Galgaduud oo loo diiday
